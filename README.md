@@ -1,5 +1,6 @@
 # Quake Sensor 1.0
 Quake Sensor: Afetlere Hızlı Müdahale İçin Yenilikçi Bir Prototip
+
 Afetler, doğal veya insana bağlı sebeplerden kaynaklanan olağanüstü durumlardır ve hızlı ve etkili müdahale gerektirir. Quake Sensor, acil durumlarda afet bölgelerine hızlı tepki vermek ve afet ekiplerine yardımcı olmak amacıyla geliştirilen yenilikçi bir prototiptir. Bu özellikli proje, AFAD Acil Çağrı sistemi ile entegre çalışarak afet durumlarında güvenliği ve koordinasyonu sağlamak için tasarlanmıştır.
 Quake Sensor, etkileyici bir dizi özellik sunarak afet müdahalesinin hızını ve etkinliğini artırmayı hedefler. İşte Quake Sensor'un dikkate değer özelliklerinden bazıları:
 1.	Ses ve Siren ile Uyarı: Quake Sensor, bir afetin meydana geldiğini tespit ettiğinde güçlü bir ses ve siren uyarısı vererek insanları hızla alarma geçirir ve onları potansiyel tehlikelerden haberdar eder.
